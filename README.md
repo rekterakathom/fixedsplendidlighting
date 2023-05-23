@@ -7,9 +7,9 @@ Splendid Lighting doesn't contain a license, and so this one won't contain eithe
 
 Everything is provided as-is with no warranty or support. Please do not contact anyone listed in the credits without a very good reason!
 
-Credits:
-All in Arma Development Team
-Avery The Kitty
-TheNightstalk3r
-Jono
-ZackTactical34
+# Credits:
+- All in Arma Development Team
+- Avery The Kitty
+- TheNightstalk3r
+- Jono
+- ZackTactical34
