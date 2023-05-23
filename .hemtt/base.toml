@@ -1,0 +1,16 @@
+name = "Fixed Splendid Lighting"
+prefix = "FSL"
+author = "pvttunt & ThomasAngel"
+template = "cba"
+mainprefix = "x"
+files = [
+    "LICENSE",
+    "mod.cpp",
+    "README.md"
+]
+skip = [
+    "pvttunt"
+]
+folder_optionals = false
+sig_version = 3
+version = "1.0.0.0"
