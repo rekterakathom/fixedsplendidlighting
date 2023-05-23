@@ -5,6 +5,8 @@ This version also has fixed inheritance, so compatibility with other mods that u
 
 Splendid Lighting doesn't contain a license, and so this one won't contain either. According to the Steam workshop page edits and re-uploads are allowed when proper credit is given, so if you do decide to use these files in a public release, then you must include these credits.
 
+Everything is provided as-is with no warranty or support. Please do not contact anyone listed in the credits without a very good reason!
+
 Credits:
 All in Arma Development Team
 Avery The Kitty
